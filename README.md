@@ -1,1 +1,1 @@
-# IP302
+# IP302 : Machine Learning with Python
