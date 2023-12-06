@@ -25,7 +25,7 @@ def calculate_metrics(model, X_test, y_test):
 
 # Function to plot ROC Curve for a given model
 def plot_roc_curve(model, X_test, y_test, model_name):
-     '''
+    '''
     The plot_roc_curve is a function that takes as input: model, X_test, y_test, model_name
     and returns the ROC Curve plot with the AUC value
     '''
@@ -33,7 +33,7 @@ def plot_roc_curve(model, X_test, y_test, model_name):
     probabilities = model.predict_proba(X_test)[:,1]
     fpr, tpr, thresholds = roc_curve(y_test, probabilities)
     roc_auc = roc_auc_score(y_test, probabilities)
-    
+
     # Plotting ROC Curve
     plt.plot(fpr, tpr, label=f'{model_name} (area = {roc_auc:.2f})')
 
