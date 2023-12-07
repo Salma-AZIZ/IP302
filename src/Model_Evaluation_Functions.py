@@ -15,11 +15,11 @@ def calculate_metrics(model, X_test, y_test):
     precision = precision_score(y_test, y_pred)
     recall = recall_score(y_test, y_pred)
     f1 = f1_score(y_test, y_pred)
-    
-    # Calculate the AUC Value
-    y_pred_prob = model.predict_proba(X_test)[:,1]
-    auc = roc_auc_score(y_test, probabilities)
-    return accuracy, precision, recall, f1, auc
+    # Uncomment below lines to calculate and return the AUC value
+    # y_pred_prob = model.predict_proba(X_test)[:, 1]
+    # auc = roc_auc_score(y_test, y_pred_prob)
+
+    return accuracy, precision, recall, f1 #, auc
 
 
 
