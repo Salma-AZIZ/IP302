@@ -93,6 +93,8 @@ cd Documents/ML_with_Python_submission
 
 # Launch Jupyter from this location
 jupyter notebook
+# or
+jupyterlab
 
 ```
 
@@ -101,7 +103,7 @@ jupyter notebook
 * **Create a Cell:** Click the `+` button in the toolbar, or press `Esc` then `B` (below) / `A` (above).
 * **Run a Cell & Move Next:** Press `Shift + Enter`.
 * **Run a Cell & Stay:** Press `Ctrl + Enter`.
-* **Cell Types:**
+* **Cell Types:** 
 * **Code:** For writing Python code.
 * **Markdown:** For writing text, notes, and documentation.
 
