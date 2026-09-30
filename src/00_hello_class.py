@@ -1,0 +1,1 @@
+print("Hello class, welcome to our journey into Machine Learning in Python")
