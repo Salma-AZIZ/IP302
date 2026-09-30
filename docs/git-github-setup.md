@@ -199,7 +199,7 @@ git push
 ## ⚠️ Checklist Before Finalizing
 
 * Repository visibility is set to **Private**.
-* Instructor is added under **Settings > Collaborators** (`[INSERT_INSTRUCTOR_USERNAME_HERE]`).
+* Instructor is added under **Settings > Collaborators** (`Salma-AZIZ`).
 * `README.md` contains your real **First Name** and **Last Name**.
 * Created a **Personal Access Token (Classic)** with **No Expiration** and **`repo` scope**.
 * Saved the Token locally in a safe place.
