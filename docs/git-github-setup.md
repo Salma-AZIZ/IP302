@@ -191,7 +191,7 @@ git push
 ### Submitting on ILIAS:
 
 1. Go to your repository page on [github.com](https://github.com).
-2. Copy the URL from your browser address bar (e.g., `[https://github.com/YOUR-USERNAME/ML_with_Python_submission](https://github.com/YOUR-USERNAME/ML_with_Python_submission)`).
+2. Copy the URL from your browser address bar (e.g., `https://github.com/YOUR-USERNAME/ML_with_Python_submission`).
 3. Log in to **ILIAS**, navigate to the relevant assignment submission task, and paste the URL into the submission field.
 
 ---
