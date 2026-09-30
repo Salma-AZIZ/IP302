@@ -12,8 +12,7 @@ Choose **ONE** of the three setup options below based on your preference and com
 | :--- | :--- | :--- | :--- |
 | **Option 1: Anaconda** | ⭐ Easy (Recommended) | Absolute beginners who want everything pre-installed | No |
 | **Option 2: Python + Pip** | ⭐⭐ Moderate | Users who prefer a lightweight setup or already have Python | No |
-| **Option 3: Google Colab** | ⭐ In
-stant | Emergency backup / Zero installation | Yes (Cloud-based) |
+| **Option 3: Google Colab** | ⭐ Instant | Emergency backup / Zero installation | Yes (Cloud-based) |
 
 ---
 
